@@ -1,8 +1,34 @@
-<h1 align="center">👋, i'm yuan</h1>
-<h3 align="center">just your ordinary junior web developer</h3>
+<p align="middle">
+<img src="https://media.tenor.com/images/900ebb513d6dd98a5b8dfc521cb7c887/tenor.gif" align="middle">
+</p>
 
-- I've worked on [Rumah Desain Indonesia](https://riadiandfriends.com)
+
+#### こんにちは
+
+------------
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+hello! im yuan r, web developer based in indonesia. japanese culture, manga and vidya addict. also really interested on simple web design.
+
+currently working with [Rumah Desain Indonesia](https://riadiandfriends.com "Rumah Desain Indonesia") as intern web developer and make music on side under [Flay!](https://itsflay.live "Flay!") alias.
+
+#### projects
+
+------------
+
+ive worked on some projects during the past as an intern on multiple company and software house, some of my works are
+- [PMB Stikes Banyuwangi](http://pmb.stikesbanyuwangi.ac.id/ "PMB Stikes Banyuwangi") (2018 - 2019) 
+- [Rumah Desain Indonesia](http://riadiandfriends.com/ "Rumah Desain Indonesia") (2020- Present)
+- [Career @ Rumah Desain Indonesia](http://career.riadiandfriends.com/ "Career @ Rumah Desain Indonesia") (2020 - Present)
+
+and also some of my ongoing personal projects such as
+
+- demo box for musician and label a&r(s)
+- event landing hub
+
+#### connect and socials?
+
+------------
+
+tba :)
+
