@@ -3,7 +3,7 @@
 </p>
 
 
-## こんにちは
+### こんにちは
 
 ------------
 
@@ -12,7 +12,7 @@ hello! im yuan r, web developer based in indonesia. japanese culture, manga and 
 
 currently working with [Rumah Desain Indonesia](https://riadiandfriends.com "Rumah Desain Indonesia") as intern web developer and make music on side under [Flay!](https://itsflay.live "Flay!") alias.
 
-## projects
+### projects
 
 ------------
 
@@ -26,7 +26,7 @@ and also some of my ongoing personal projects such as
 - demo box for musician and label a&r(s)
 - event landing hub
 
-## connect and socials?
+### connect and socials?
 
 ------------
 
