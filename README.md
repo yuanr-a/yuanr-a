@@ -10,7 +10,7 @@
 
 hello! im yuan r, web developer based in indonesia. japanese culture, manga and vidya addict. also really interested on simple web design.
 
-currently working with [Rumah Desain Indonesia](https://riadiandfriends.com "Rumah Desain Indonesia") as intern web developer and make music on side under [Flay!](https://itsflay.live "Flay!") alias.
+currently working with [Rumah Desain Indonesia](https://riadiandfriends.com "Rumah Desain Indonesia") as intern web developer.
 
 ### projects
 
@@ -20,11 +20,6 @@ ive worked on some projects during the past as an intern on multiple company and
 - [PMB Stikes Banyuwangi](http://pmb.stikesbanyuwangi.ac.id/ "PMB Stikes Banyuwangi") (2018 - 2019) 
 - [Rumah Desain Indonesia](http://riadiandfriends.com/ "Rumah Desain Indonesia") (2020- Present)
 - [Career @ Rumah Desain Indonesia](http://career.riadiandfriends.com/ "Career @ Rumah Desain Indonesia") (2020 - Present)
-
-and also some of my ongoing personal projects such as
-
-- demo box for musician and label a&r(s)
-- event landing hub
 
 ### connect and socials?
 
